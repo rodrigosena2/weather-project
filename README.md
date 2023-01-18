@@ -14,7 +14,6 @@
 </ul>
 <p>No JavaScript, foi posto em prática os conhecimentos sobre: </p>
 <ul>
-  <li>ES6 modules</li>
   <li>Manipulação de API</li>
   <li>Requisição interna a API</li>
   <li>Manipulação de JSON</li>
